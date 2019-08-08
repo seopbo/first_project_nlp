@@ -4,6 +4,7 @@ NLP 논문을 구현할 때, 항상 수반하는 전처리(Vocabulary, Tokenizer
 
 ### Contents
 + 10:00 ~ 10:50 : NLP 논문 구현을 위한 전처리, Project template 소개
+	1. [Structuring your first NLP project.pdf](https://github.com/aisolab/strnlp/blob/master/materials/190815_Structuring%20your%20first%20NLP%20project.pdf)
 + 11:00 ~ 12:20 : 구현 관점에서의 "Convolutional Neural Networks for Sentence Classification" 리뷰 및 모듈 구현 (실습)
 	1. [eda.ipynb](https://nbviewer.jupyter.org/github/aisolab/strnlp/blob/master/exercise/eda.ipynb) : 텍스트 데이터에 대한 탐색적 데이터 분석에 대한 실습
 	2. [build_vocab.ipynb](https://github.com/aisolab/strnlp/blob/master/exercise/build_vocab.ipynb) : 텍스트 데이터 전처리를 해보는 실습
