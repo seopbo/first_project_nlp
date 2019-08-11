@@ -10,7 +10,7 @@ NLP 논문을 구현할 때, 항상 수반하는 전처리(Vocabulary, Tokenizer
 	2. [build_vocab.ipynb](https://nbviewer.jupyter.org/github/aisolab/strnlp/blob/master/exercise/build_vocab.ipynb) : 텍스트 데이터 전처리를 해보는 실습
 	3. [model.data.ipynb](https://nbviewer.jupyter.org/github/aisolab/strnlp/blob/master/exercise/model.data.ipynb) : 딥러닝 모델의 data pipeline을 구축해보는 실습
 	4. [model.ops.ipynb](https://nbviewer.jupyter.org/github/aisolab/strnlp/blob/master/exercise/model.ops.ipynb) : 딥러닝 모델을 구현함에 있어서 각종 operation을 구현해 보는 실습
-	5. [model.net.ipynb](https://github.com/aisolab/strnlp/blob/master/exercise/model.net.ipynb) : 전체 딥러닝 모델을 구현한 operation을 바탕으로 구현해보는 실습
+	5. [model.net.ipynb](https://nbviewer.jupyter.org/github/aisolab/strnlp/blob/master/exercise/model.net.ipynb) : 전체 딥러닝 모델을 구현한 operation을 바탕으로 구현해보는 실습
 + 12:30 ~ 13:00 : Model Training and Test, QnA
 
 ### Preliminary
